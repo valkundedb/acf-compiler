@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+acf_venv/
+acf_stable/
+.DS_Store
+*.log
+ray_results/
